@@ -1,5 +1,5 @@
 # Validation and Generation Tools for Codeforces Contests
-#### This repository contains a collection of tools to help with Codeforces contest preparation. Specifically, it includes:
+#### This repository contains a collection of tools to help with Codeforces contest preparation. it includes:
 
 - A validator to check the correctness of test input and output files.
 - A test case generator to create new test cases for a problem.
